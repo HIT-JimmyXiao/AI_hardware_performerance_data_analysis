@@ -1,0 +1,36 @@
+﻿Field,Missing Count,Missing Rate (%),Non-Missing
+INT4 performance (OP/s),162,95.29,8
+FP4 performance (FLOP/s),158,92.94,12
+INT16 performance (OP/s),153,90.0,17
+FP8 performance (FLOP/s),151,88.82,19
+Internode bandwidth (bit/s),150,88.24,20
+Intranode bandwidth (byte/s),146,85.88,24
+TF32 (TensorFloat-32) performance (FLOP/s),133,78.24,37
+Source for the price,129,75.88,41
+Notes,128,75.29,42
+Tensor cores,120,70.59,50
+Price-performance,117,68.82,53
+Release price (USD),117,68.82,53
+Memory clock (MHz),108,63.53,62
+Tensor-FP16/BF16 performance (FLOP/s),105,61.76,65
+Boost clock (MHz),100,58.82,70
+Memory bus (bit),99,58.24,71
+INT8 performance (OP/s),98,57.65,72
+ML models,93,54.71,77
+Base clock (MHz),86,50.59,84
+Transistors (millions),86,50.59,84
+FP64 (double precision) performance (FLOP/s),73,42.94,97
+Die Size (mm^2),73,42.94,97
+Foundry,63,37.06,107
+FP16 (half precision) performance (FLOP/s),57,33.53,113
+FP32 (single precision) performance (FLOP/s),43,25.29,127
+Process size (nm),39,22.94,131
+Memory (bytes),35,20.59,135
+Link to datasheet,24,14.12,146
+Energy efficiency,21,12.35,149
+TDP (W),21,12.35,149
+Memory bandwidth (byte/s),14,8.24,156
+Type,13,7.65,157
+Release date,11,6.47,159
+Total processing performance (bit-OP/s),10,5.88,160
+Manufacturer,1,0.59,169
